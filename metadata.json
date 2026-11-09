@@ -1,0 +1,6 @@
+{
+  "name": "Shriram Dry Fruits & Spices",
+  "description": "Premium dry fruits, spices, artisan chocolates, seeds, and gourmet snacks. Wholesale supply for restaurants, bakeries, kirana stores, custom event and corporate gift hampers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
